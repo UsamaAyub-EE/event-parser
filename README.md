@@ -41,7 +41,6 @@ For above input, the output should be:
     start: 11,
     end: 20,
     title: "obj1",
-    resume: true,
     fakeStart: true
   }
 ]
@@ -89,7 +88,6 @@ For above input, output should be:
     start: 17,
     end: 20,
     title: "obj1",
-    resume: true,
     fakeStart: true
   }
 ]
